@@ -34,7 +34,7 @@ Because, at the end of the day, we're a jolly band of shitposters trying to make
 &nbsp;
 &nbsp;
 
-### What does permenant mean, you may ask? Yet again, very simple; ###
+### What does permenant mean, you may ask? Yet again, very simple;
 Permenant is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
 
 &nbsp;
@@ -49,3 +49,9 @@ Permenant is defined as anything that isn't easily removed without damage to wha
   &nbsp;
 
   Tl;dr, **NOTHING FUCKING PERMANENT.**
+
+  &nbsp;
+  &nbsp;
+  &nbsp;
+
+  ## Supplies needed
