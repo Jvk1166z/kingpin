@@ -24,7 +24,7 @@ What do I mean by this you may ask? Simple as well! Here's the list:
 &nbsp;
 &nbsp;
 
-**If** you do get stopped by transit cops or whatever, please be nice to them. **AND DON'T RUN!** They're just doing their jobs, and if you are a decent human being, they likely will not do anything to you. They may ask you to remove your sticker, or destroy your spares. If they do ask you to do this, **DO IT!**
+**If** you do get stopped by transit cops or any authority figure whatsoever, please be nice to them. **AND DON'T RUN!** They're just doing their jobs, and if you are a decent human being, they likely will not do anything to you. They may ask you to remove your sticker, or destroy your spares. If they do ask you to do this, **DO IT!**
 
 And hey, while you're at it, why not give the cops a sticker too and invite them. How fucking top of a meme would that be if they joined? Remember, we're in it for the fun, and we're in it for the experiment of seeing how well these codes spread. Not to take down the man or whatever dumb shit people might assume this is about!
 
@@ -70,7 +70,7 @@ Alright, still in? Great! The supplies needed are very simple. Here's the list:
 
 &nbsp;
 
-And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smatterd with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will be likely charged with vandalism.**
+And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smatterd with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will be likely charged with vandalism.** And we'll probably ban you.
 
 &nbsp;
 &nbsp;
@@ -94,4 +94,15 @@ Simple, eh? Get rolling.
 &nbsp;
 &nbsp;
 
-## 
+## Where to Stick
+
+Where ever you want, really. But here are some spots I would reccomend high traffic areas (no shit). Places such as:
+* Bus stops.
+* The back of bus seats.
+* The inside of public restroom stalls.
+* Any public seating area that people might spend an extended amount of time in.
+* The window of your car.
+
+&nbsp;
+
+Those just some suggestions, but really, it's up to you. **SERIOUSLY YOU CAN GET GOING NOW.**
