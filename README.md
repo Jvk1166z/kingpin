@@ -43,3 +43,9 @@ permenant is defined as anything that isn't easily removed without damage to wha
   * Stickers that are not easily removed.
   * Papers that are duct taped on (fuck you).
   * Anything involving glue. Especially gorilla glue (ooh ooh ah ah).
+  * **Anything at all involving any kind of paint whatsoever.**
+  * Anything involving scratches or cuts in a surface.
+
+  &nbsp;
+
+  Tl;dr, **NOTHING PERMENANT IDIOT.**
