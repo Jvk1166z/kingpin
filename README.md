@@ -136,7 +136,7 @@ If you'd like to know your link stats, hit me up on Discord. My username is Jvk1
 &nbsp;
 &nbsp;
 
-##How to Submit Tags to The Leaderboard
+## How to Submit Tags to The Leaderboard
 
 This is a WIP, there currently is no leaderboard to speak of. And there may never be one. This is simply a placeholder section.
 
