@@ -128,4 +128,6 @@ And Bob's probably not your fucking uncle! But at least you've got a custom tag 
 
 ## How to Track Your Custom Tags
 
-The reason you generated that Grabify link, is so you can at least track your **scans**. Not your actual **join** stats. Currently, Discord only allows server administrators to view invite link usage stats. So you're kinda SOL on that one on your own. If you'd like to know your link stats, hit me up on Discord. My username is Jvk1166z, duh. And if you send me the ID of your invite link, I'd be happy to relay the numbers to you!
+The reason you generated that Grabify link, is so you can at least track your **scans**. Not your actual **join** stats. Currently, Discord only allows server administrators to view invite link usage stats. So you're kinda SOL on that one on your own.
+
+If you'd like to know your link stats, hit me up on Discord. My username is Jvk1166z, duh. And if you send me the ID of your invite link, I'd be happy to relay the numbers to you!
