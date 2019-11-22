@@ -54,4 +54,13 @@ Permenant is defined as anything that isn't easily removed without damage to wha
   &nbsp;
   &nbsp;
 
-  ## Supplies needed
+## Supplies needed
+
+Alright, still in? Great! The supplies needed are very simple. Here's the list:
+
+* Working inkjet printer (preferably with color ink).
+* A roll of scotch tape.
+* Something to put them in without bending or crumpling the tags, that's also easily accesable.
+* Something to cut the tags out with. (I like scissors for this, but if you dont have a steady hand, use an exacto knife or something.)
+
+And that's it! Get printing and get out there.
