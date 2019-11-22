@@ -146,7 +146,7 @@ Basically this is currently up to wether or not I'm willing to actually set up a
 &nbsp;
 &nbsp;
 
-## Footnotes
+## Footnotes && **CONCERNS**
 
 This is just a project for fun. If you have any questions or concerns **PLEASE CONTACT US!**. Here are some people you can contact if you've got any issues or questions for us. This list is in the direct order of involvement with the project, so please start from the top and work your way down. Here's the list, these are Discord usernames by the way if you didn't already guess: 
 
@@ -157,12 +157,7 @@ That's the two of us who are directly involved with this project at a core level
 
 2. Larry Lesbiano#1632: He's not core to the construction of the operation. But he's been around for more of it than any of the other admins. So he should be your first contact if you cant get Uncle or I.
 2. ExLegendaryHero#4167
-2. Salival01#1984
 2. Threeninesix#9372
-2. Zdonick#5261
-2. nani#1549
-2. Nac#4753
-2. d0ngus#5299
 
 All of this information is available in the text channel #oblivion_access as well, should you want to view it there. 
 
