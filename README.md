@@ -2,7 +2,7 @@
 &nbsp;
 &nbsp;
 &nbsp;	
-## * **DISCLAIMERS**
+## **DISCLAIMERS**
 
 + ###	Dont be a dick!
 + What does this mean? Simple; Dont act, smell, or look like a cunt!!
