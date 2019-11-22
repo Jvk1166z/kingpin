@@ -54,7 +54,7 @@ Permenant is defined as anything that isn't easily removed without damage to wha
   &nbsp;
   &nbsp;
 
-## Supplies needed
+## Supplies Needed
 
 &nbsp;
 
@@ -76,7 +76,7 @@ And that's it. Get printing and get out there!
 &nbsp;
 &nbsp;
 
-## How to print
+## How to Print
 
 Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a little more complicated than that. So here:
 
