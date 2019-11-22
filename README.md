@@ -18,7 +18,7 @@ What do I mean by this you may ask? Simple as well! Here's the list:
 * Shave your goddamn neckbeard.
 * **Be nice to people.**
 * Clean up your shit if you're asked to.
-* **DO NOT UNDER ANY CIRCUMSTANCES USE ANYTHING PERMINANT! THATS V A N D A L I S M!**
+* **DO NOT UNDER ANY CIRCUMSTANCES USE ANYTHING PERMENANT! THATS V A N D A L I S M!**
 
 &nbsp;
 &nbsp;
