@@ -93,4 +93,4 @@ Simple, eh? Get rolling.
 &nbsp;
 
 ## How to Avoid Trouble
-Simple. Dont dress or act like a G.I Joke, and you'll be fine. This isn't mission impossible, you're essentially littering. Dont treat it as super spy LARP.
+Simple. Dont dress or act like a G.I Joke, and you'll be fine. This isn't mission impossible, you're essentially littering at worst. Dont treat it as super spy LARP.
