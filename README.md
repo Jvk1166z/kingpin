@@ -10,6 +10,7 @@ Simple!!
 Dont act like a cunt!
 
 What do I mean by this you may ask? Simple as well! 
+
 		Dont dress like a dick.
 		Dont act like a dick.
 		Take a fucking shower.
