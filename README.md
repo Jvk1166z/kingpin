@@ -9,7 +9,7 @@ Simple!!
 
 Dont act like a cunt!
 
-What do I mean by this you may ask? Simple as well! 
+What do I mean by this you may ask? Simple as well! Here's the list:
 
 		Dont dress like a dick.
 		Dont act like a dick.
