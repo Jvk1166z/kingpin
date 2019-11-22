@@ -88,4 +88,4 @@ Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a
 
 &nbsp;
 
-Simple, eh? Get rolling.
+Simple, eh? Get rolling. If you want to mod the template, or make your own, instructions here: **PLACEHOLDER**
