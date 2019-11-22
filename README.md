@@ -70,7 +70,7 @@ Alright, still in? Great! The supplies needed are very simple. Here's the list:
 
 &nbsp;
 
-And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smattered with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will likely be charged with vandalism.** And we'll probably ban you.
+And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smattered with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will likely be charged with vandalism. And we will ban you.**
 
 &nbsp;
 &nbsp;
@@ -86,10 +86,5 @@ Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a
 * Cut it out as carefully as you can, do not damage the code itself **AT ALL** or the sticker will not work.
 * Store in a safe, dry pocket. Preferably one that wont crumple or crease the paper.
 
-&nbsp;
-
 Simple, eh? Get rolling.
-
-&nbsp;
-
-If you want to mod the template, or make your own, instructions here: **PLACEHOLDER**
+If you want to modify this template, or make your own code to enter the leaderboard; Click here for instructions!
