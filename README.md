@@ -8,6 +8,8 @@
 
 ###	Dont be a dick!
 What does this mean? Simple; Dont act, smell, or look like a cunt!!
+&nbsp;
+
 What do I mean by this you may ask? Simple as well! Here's the list:
 
 * Dont dress like a dick.
