@@ -92,18 +92,5 @@ Simple, eh? Get rolling.
 &nbsp;
 &nbsp;
 
-## How to Stick Without Getting Busted
-
-While we aren't out to cause trouble, technically this is considered littering. So while it's not like you're robbing a Seven Eleven at gunpoint, it's best to try to avoid obvious detection. Most regular people wont shit half a fuck about whatever you're up to, but try not to do it right in front of a Karen. **OBVIOUSLY** use common sense, and don't do this directly infront of anyone with authority. If a transit cop or someone else who gets paid enough to care sees you, they likely will stop you and ask you to take it down. If this happens, **YOU DO IT**. And you do it politely.
-
-&nbsp;
-
-Some tips I can give you for avoiding detection are pretty simple and common sense, but I'll list them anyways. Here they are: 
-
-* Dont tape your stuff up directly in front of people. This is really not important most of the time, as nobody cares. But it never hurts to be more secure if you have the option.
-* Dont act suspicious. If you'd ditch your gum wrapper on the street, you're essentially doing the same thing here. Dont act like it's anything more than that.
-* Dont do it infront of authority figures. Idiot.
-
-&nbsp;
-
-And I'll reiterate here, just in case you went tl;dr on me. **WE DO NOT CONDONE V A N D A L I S M.** We aren't doing anything wrong here, dont act like you are. Just use common sense, thats all. If you wanna pretend to be G.I Joe, that's on you. Have fun. It's not our problem if you end up screwing yourself over by acting like a jackass.
+## How to Avoid Trouble
+Simple. Dont dress or act like a G.I Joke, and you'll be fine. This isn't mission impossible, you're essentially littering. Dont treat it as super spy LARP.
