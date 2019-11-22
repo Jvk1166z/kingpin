@@ -28,7 +28,7 @@ What do I mean by this you may ask? Simple as well! Here's the list:
 
 And hey, while you're at it, why not give the cops a sticker too and invite them. How fucking top of a meme would that be if they joined? Remember, we're in it for the fun, and we're in it for the experiment of seeing how well these codes spread. Not to take down the man or whatever dumb shit people might assume this is about!
 
-Because, at the end of the day, we're a jolly band of shitposters trying to make more friends! Not a bunch of juvenile delinquints who've got a bone to pick with the transit system!
+Because, at the end of the day, we're a jolly band of shitposters trying to make more friends! Not a bunch of juvenile delinquents who've got a bone to pick with the transit system!
 
 #### What does permenent mean, you may ask? Yet again, very simple. ####
-Permenent is defined as anything that isn't easily removed without damage to whatever surface it's attached to. Duh. 
+Permenent is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
