@@ -100,9 +100,7 @@ While we aren't out to cause trouble, technically this is considered littering. 
 
 Some tips I can give you for avoiding detection are pretty simple and common sense, but I'll list them anyways. Here they are: 
 
-* Wear a mask of some kind. Not required, but handy if you know there's a lot of cameras, you're putting a lot of tags up, and you're not keen on getting a talking to next time you're in the same building.
-  * To elaborate on this, please dont wear some dumb shit like you're larping Payday 2 or some shit. Something that you have a legit reason to be wearing. Stuff I find works good are; Surgical masks, for avoiding the transit plague. Pollution mask, for not choaking to death in the summer anywhere on the west coast. And my current personal favorite, a trapper hat with a snap on wind mask.
-* Avoid cameras, if at all possible. If not possible, either tape it up in as lowkey a way possible, or wear something like a baseball hat low enough to conceal your face from the camera.
+* Avoid cameras, if at all possible.
 * Dont tape your stuff up directly in front of people. This is really not important most of the time, as nobody cares. But it never hurts to be more secure if you have the option.
 * Dont do it infront of authority figures. Idiot.
 
