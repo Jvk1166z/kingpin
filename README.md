@@ -57,6 +57,7 @@ Permenant is defined as anything that isn't easily removed without damage to wha
 ## Supplies needed
 
 Alright, still in? Great! The supplies needed are very simple. Here's the list:
+
 &nbsp;
 
 * Working inkjet printer (preferably with color ink).
