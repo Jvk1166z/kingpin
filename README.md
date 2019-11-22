@@ -6,7 +6,7 @@
 
 ## **DISCLAIMERS**
 
-###	Dont be a dick!
+###    Don’t be a dick!
 What does this mean? Simple; Don't act, smell, or look like a cunt!
 &nbsp;
 
@@ -18,7 +18,7 @@ What do I mean by this you may ask? Simple as well! Here's the list:
 * Shave your goddamn neckbeard.
 * **Be nice to people.**
 * Clean up your shit if you're asked to.
-* **DO NOT UNDER ANY CIRCUMSTANCES USE ANYTHING PERMENANT! THATS V A N D A L I S M!**
+* **DO NOT UNDER ANY CIRCUMSTANCES USE ANYTHING PERMANENT! THAT'S V A N D A L I S M!**
 
 &nbsp;
 &nbsp;
@@ -34,12 +34,12 @@ Because, at the end of the day, we're a jolly band of shitposters trying to make
 &nbsp;
 &nbsp;
 
-### What does permenant mean, you may ask? Yet again, very simple;
-Permenant is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
+### What does permanent mean, you may ask? Yet again, very simple;
+Permanent is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
 
 &nbsp;
 
-  A list of things that are considered permenant:
+  A list of things that are considered permanent:
   * Stickers that are not easily removed.
   * Papers that are duct taped on (fuck you).
   * Anything involving glue. Especially gorilla glue (ooh ooh ah ah).
@@ -62,15 +62,15 @@ Alright, still in? Great! The supplies needed are very simple. Here's the list:
 
 * Working inkjet printer (Preferably with color ink).
 * A roll of scotch tape.
-* Something to put them in without bending or crumpling the tags, that's also easily accesable.
-* Something to cut the tags out with. (I like scissors for this, but if you dont have a steady hand, use an exacto knife or something)
+* Something to put them in without bending or crumpling the tags, that's also easily accessible.
+* Something to cut the tags out with. (I like scissors for this, but if you don't have a steady hand, use an exacto knife or something)
 * The files provided in this git repo.
 * A working computer (If you want to make your own modifications), or a phone (If you just want to print the provided tag), either works.
 * GIMP (Yet again, only if you want to modify the template)
 
 &nbsp;
 
-And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smatterd with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will be likely charged with vandalism.** And we'll probably ban you.
+And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smattered with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will likely be charged with vandalism.** And we'll probably ban you.
 
 &nbsp;
 &nbsp;
@@ -82,7 +82,7 @@ Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a
 
 * Download this git. Either hit it up with a git clone, or click download as zip. Whatever you want fam.
 * Select your paper size, I've included several pre tiled templates for common paper sizes. The one's I've tested myself or have had other people, are marked with a 'working' tag in the filename.
-* Print it out, in full color if all possible. 
+* Print it out, in full color if all possible.
 * Cut it out as carefully as you can, do not damage the code itself **AT ALL** or the sticker will not work.
 * Store in a safe, dry pocket. Preferably one that wont crumple or crease the paper.
 
