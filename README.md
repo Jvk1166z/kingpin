@@ -104,6 +104,4 @@ Simple. Dont dress or act like a G.I Joke, and you'll be fine. This isn't missio
 
 This is actually very easy. Provided is a GIMP project file with all of the elements you need seperated as layers. Want a new background image? Replace the background image layer. Want a new link? Replace the link layer (VCR Font is provided in the git). Want a new code. Replace the code layer.
 
-&nbsp;
-
 If you've ever edited an image with GIMP, you already know what to do.
