@@ -32,4 +32,13 @@ Because, at the end of the day, we're a jolly band of shitposters trying to make
 
 &nbsp;
 ### What does permenent mean, you may ask? Yet again, very simple; ###
+
+
+&nbsp;
 Permenent is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
+
+&nbsp;
+A list of things that are considered permenent:
+* Stickers that are not easily removed.
+* Papers that are duct taped on (fuck you).
+* Anything involving glue. Especially gorilla glue (ooh ooh ah ah).
