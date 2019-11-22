@@ -5,11 +5,7 @@
 ## **DISCLAIMERS**
 
 ###	Dont be a dick!
-What does this mean?
-
-Simple!!
-
-Dont act like a cunt!
+What does this mean? Simple; Dont act, smell, or look like a cunt!!
 
 What do I mean by this you may ask? Simple as well! Here's the list:
 
