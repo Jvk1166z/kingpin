@@ -87,4 +87,6 @@ Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a
 * Store in a safe, dry pocket. Preferably one that wont crumple or crease the paper.
 
 Simple, eh? Get rolling.
+
+&nbsp;
 If you want to modify this template, or make your own code to enter the leaderboard; Click here for instructions!
