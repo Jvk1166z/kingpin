@@ -106,3 +106,4 @@ Where ever you want, really. But here are some spots I would reccomend high traf
 &nbsp;
 
 Those just some suggestions, but really, it's up to you. **SERIOUSLY YOU CAN GET GOING NOW.**
+
