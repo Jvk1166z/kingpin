@@ -89,5 +89,23 @@ Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a
 Simple, eh? Get rolling.
 
 &nbsp;
+&nbsp;
+&nbsp;
 
-If you want to modify this template, or make your own code to enter the leaderboard; Click here for instructions!
+## How to Stick Without Getting Busted
+
+While we aren't out to cause trouble, technically this is considered littering. So while it's not like you're robbing a Seven Eleven at gunpoint, it's best to try to avoid obvious detection. Most regular people wont shit half a fuck about whatever you're up to, but try not to do it right in front of a Karen. **OBVIOUSLY** use common sense, and don't do this directly infront of anyone with authority. If a transit cop or someone else who gets paid enough to care sees you, they likely will stop you and ask you to take it down. If this happens, **YOU DO IT**. And you do it politely.
+
+&nbsp;
+
+Some tips I can give you for avoiding detection are pretty simple and common sense, but I'll list them anyways. Here they are: 
+
+* Wear a mask of some kind. Not required, but handy if you know there's a lot of cameras, you're putting a lot of tags up, and you're not keen on getting a talking to next time you're in the same building.
+  * To elaborate on this, please dont wear some dumb shit like you're larping Payday 2 or some shit. Something that you have a legit reason to be wearing. Stuff I find works good are; Surgical masks, for avoiding the transit plague. Pollution mask, for not choaking to death in the summer anywhere on the west coast. And my current personal favorite, a trapper hat with a snap on wind mask.
+* Avoid cameras, if at all possible. If not possible, either tape it up in as lowkey a way possible, or wear something like a baseball hat low enough to conceal your face from the camera.
+* Dont tape your stuff up directly in front of people. This is really not important most of the time, as nobody cares. But it never hurts to be more secure if you have the option.
+* Dont do it infront of authority figures. Idiot.
+
+&nbsp;
+
+And I'll reiterate here, just in case you went tl;dr on me. **WE DO NOT CONDONE V A N D A L I S M.** We aren't doing anything wrong here, dont act like you are. Just use common sense, thats all.
