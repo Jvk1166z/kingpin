@@ -106,4 +106,4 @@ Some tips I can give you for avoiding detection are pretty simple and common sen
 
 &nbsp;
 
-And I'll reiterate here, just in case you went tl;dr on me. **WE DO NOT CONDONE V A N D A L I S M.** We aren't doing anything wrong here, dont act like you are. Just use common sense, thats all.
+And I'll reiterate here, just in case you went tl;dr on me. **WE DO NOT CONDONE V A N D A L I S M.** We aren't doing anything wrong here, dont act like you are. Just use common sense, thats all. If you wanna pretend to be G.I Joe, that's on you. Have fun. It's not our problem if you end up screwing yourself over by acting like a jackass.
