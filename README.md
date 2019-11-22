@@ -31,7 +31,5 @@ And hey, while you're at it, why not give the cops a sticker too and invite them
 Because, at the end of the day, we're a jolly band of shitposters trying to make more friends! Not a bunch of juvenile delinquents who've got a bone to pick with the transit system!
 
 &nbsp;
-&nbsp;
-
 #### What does permenent mean, you may ask? Yet again, very simple. ####
 Permenent is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
