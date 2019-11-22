@@ -40,7 +40,6 @@ Because, at the end of the day, we're a jolly band of shitposters trying to make
 Permenent is defined as anything that isn't easily removed without damage to whatever surface it's attached to. No shit.
 
 &nbsp;
-&nbsp;
 
 A list of things that are considered permenent:
 * Stickers that are not easily removed.
