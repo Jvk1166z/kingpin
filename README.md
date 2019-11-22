@@ -89,21 +89,3 @@ Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a
 &nbsp;
 
 Simple, eh? Get rolling.
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-## Where to Stick
-
-Where ever you want, really. But here are some spots I would reccomend high traffic areas (no shit). Places such as:
-* Bus stops.
-* The back of bus seats.
-* The inside of public restroom stalls.
-* Any public seating area that people might spend an extended amount of time in.
-* The window of your car.
-
-&nbsp;
-
-Those just some suggestions, but really, it's up to you. **SERIOUSLY YOU CAN GET GOING NOW.**
-
