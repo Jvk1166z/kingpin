@@ -26,6 +26,8 @@ What do I mean by this you may ask? Simple as well! Here's the list:
 
 **If** you do get stopped by transit cops or whatever, please be nice to them. **AND DON'T RUN!** They're just doing their jobs, and if you are a decent human being, they likely will not do anything to you. They may ask you to remove your sticker, or destroy your spares. If they do ask you to do this, **DO IT!**
 
-And hey, while you're at it, why not give the cops a sicker too and invite them. How fucking top of a meme would that be if they joined! Remember, we're in it for the fun, and we're in it for the experiment of seeing how well these codes spread. Not to take down the man or whatever dumb shit people might assume this is about!
+And hey, while you're at it, why not give the cops a sticker too and invite them. How fucking top of a meme would that be if they joined? Remember, we're in it for the fun, and we're in it for the experiment of seeing how well these codes spread. Not to take down the man or whatever dumb shit people might assume this is about!
 
-Because, at the end of the day, we're a jolly band of shitposters trying to make more friends! Not a bunch of juvinile delenquints who've got a bone to pick with the transit system!
+Because, at the end of the day, we're a jolly band of shitposters trying to make more friends! Not a bunch of juvenile delinquints who've got a bone to pick with the transit system!
+
+What does permenent mean, you may ask. 
