@@ -141,3 +141,31 @@ If you'd like to know your link stats, hit me up on Discord. My username is Jvk1
 This is a WIP, there currently is no leaderboard to speak of. And there may never be one. This is simply a placeholder section.
 
 Basically this is currently up to wether or not I'm willing to actually set up a system for it. As I'm sure it'd be my responsability, as nobody else would want to deal with it. And I'm pretty fuckin' lazy...
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Footnotes
+
+This is just a project for fun. If you have any questions or concerns **PLEASE CONTACT US!**. Here are some people you can contact if you've got any issues or questions for us. This list is in the direct order of involvement with the project, so please start from the top and work your way down. Here's the list, these are Discord usernames by the way if you didn't already guess: 
+
+1. Jvk1166z#8008: This is my project, so by default I'm obviously in charge of keeping it from going to shit. Please contact me first if you have any questions, as I'll be able to best help you with that. If you have any **concerns** about this project, plesae contact me and #2 simultaneously, both of us need to know.
+1. Uncle#420: Owner of the server. Contact him **immediately** if there are any **concerns**. I've worked directly with him for the construction of this operation, so he'll probably know the answers to any other questions you have. But always check with me first for those, as not to waste his time.
+
+That's the two of us who are directly involved with this project at a core level. Here are the contacts of other admins of the server, if for some reason we cant be reached immediately. They wont know much in detail about the project itself, but if you urgently need to contact us with a **concern**, get in touch with one of them, and they'll help you get it to the right people. Here's the list: 
+
+2. Larry Lesbiano#1632: He's not core to the construction of the operation. But he's been around for more of it than any of the other admins. So he should be your first contact if you cant get Uncle or I.
+2. ExLegendaryHero#4167
+2. Salival01#1984
+2. Threeninesix#9372
+2. Zdonick#5261
+2. nani#1549
+2. Nac#4753
+2. d0ngus#5299
+
+All of this information is available in the text channel #oblivion_access as well, should you want to view it there. 
+
+If you're wondering what is defined as a **concern** here it is:
+
+* A **concern** is anything involving the operation itself as a whole. This can be simply asking if something you're considering doing is okay with us. But more importantly, if you're a building owner or someone of authority, and you want us to stop. Or you want to report someone for being a piece of shit. We need to know immediately, so we can take action. Though we will ask you to provide some proof of authority, or in the case of reporting someone of unsavory behavior, proof.
