@@ -163,4 +163,4 @@ All of this information is available in the text channel #oblivion_access as wel
 
 If you're wondering what is defined as a **concern** here it is:
 
-* A **concern** is anything involving the operation itself as a whole. This can be simply asking if something you're considering doing is okay with us. But more importantly, if you're a building owner or someone of authority, and you want us to stop. Or you want to report someone for being a piece of shit. We need to know immediately, so we can take action. Though we will ask you to provide some proof of authority, or in the case of reporting someone of unsavory behavior, proof.
+* A **concern** is anything involving the operation itself as a whole. This can be simply asking if something you're considering doing is okay with us. But more importantly, if you're a building owner or someone of authority, and you want us to stop. Or you want to report someone for being a piece of shit. We need to know **immediately**, so we can take action. Though we will ask you to provide some proof of authority, or in the case of reporting someone of unsavory behavior, proof.
