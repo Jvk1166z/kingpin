@@ -100,8 +100,8 @@ While we aren't out to cause trouble, technically this is considered littering. 
 
 Some tips I can give you for avoiding detection are pretty simple and common sense, but I'll list them anyways. Here they are: 
 
-* Avoid cameras, if at all possible.
 * Dont tape your stuff up directly in front of people. This is really not important most of the time, as nobody cares. But it never hurts to be more secure if you have the option.
+* Dont act suspicious. If you'd ditch your gum wrapper on the street, you're essentially doing the same thing here. Dont act like it's anything more than that.
 * Dont do it infront of authority figures. Idiot.
 
 &nbsp;
