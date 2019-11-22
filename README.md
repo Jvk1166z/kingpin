@@ -105,3 +105,27 @@ Simple. Dont dress or act like a G.I Joke, and you'll be fine. This isn't missio
 This is actually very easy. Provided is a GIMP project file with all of the elements you need seperated as layers. Want a new background image? Replace the background image layer. Want a new link? Replace the link layer (VCR Font is provided in the git). Want a new code. Replace the code layer.
 
 If you've ever edited an image with GIMP, you already know what to do.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## How to Create Your Own Codes
+
+You'll need to do this if you want to submit yourself for the leaderboard, if that ever becomes a thing. It's quite easy. Pretty much any QR creator will work. I've actually forgotten the one I used. But it is nice to have one that lets you use a transparent background, if you can find a generator that does.
+
+Here's a step by step to generating a code complete with unique invite link that can be used to join the leaderboard:
+* First generate a Discord invite link, preferablly landing in oblivion_access. Make sure to save it, you'll need it's ID later for tracking purposes.
+* Take that link, and put it into Grabify to generate a tracking link. This will help you track your ratio of scans to actual joins, as this simply logs connection and browser information when it loads. You'll probably want to make yourself an account on Grabify as well, or save the tracking code for later use.
+* Take that grabify link you generated, and slam it into the bit.ly link shortener. It looks better. Trust me.
+* Pop that final link into your QR generator, and into the link layer of your tag, if you're using it.
+
+And Bob's probably not your fucking uncle! But at least you've got a custom tag now, so that's something. Informaton about how to submit this to the leaderboard will go here, if we ever get around to doing that.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## How to Track Your Custom Tags
+
+The reason you generated that Grabify link, is so you can at least track your **scans**. Not your actual **join** stats. Currently, Discord only allows server administrators to view invite link usage stats. So you're kinda SOL on that one on your own. If you'd like to know your link stats, hit me up on Discord. My username is Jvk1166z, duh. And if you send me the ID of your invite link, I'd be happy to relay the numbers to you!
