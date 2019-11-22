@@ -60,11 +60,14 @@ Permenant is defined as anything that isn't easily removed without damage to wha
 
 Alright, still in? Great! The supplies needed are very simple. Here's the list:
 
-* Working inkjet printer (preferably with color ink).
+* Working inkjet printer (Preferably with color ink).
 * A roll of scotch tape.
 * Something to put them in without bending or crumpling the tags, that's also easily accesable.
-* Something to cut the tags out with. (I like scissors for this, but if you dont have a steady hand, use an exacto knife or something.)
+* Something to cut the tags out with. (I like scissors for this, but if you dont have a steady hand, use an exacto knife or something)
+* The files provided in this git repo.
+* A working computer (If you want to make your own modifications), or a phone (If you just want to print the provided tag), either works.
+* GIMP (Yet again, only if you want to modify the template)
 
 &nbsp;
 
-And that's it! Get printing and get out there.
+And that's it. Get printing and get out there!
