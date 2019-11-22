@@ -41,7 +41,7 @@ permenant is defined as anything that isn't easily removed without damage to wha
 
 &nbsp;
 
- A list of things that are considered permenant:
- * Stickers that are not easily removed.
- * Papers that are duct taped on (fuck you).
- * Anything involving glue. Especially gorilla glue (ooh ooh ah ah).
+  A list of things that are considered permenant:
+  * Stickers that are not easily removed.
+  * Papers that are duct taped on (fuck you).
+  * Anything involving glue. Especially gorilla glue (ooh ooh ah ah).
