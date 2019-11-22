@@ -70,7 +70,7 @@ Alright, still in? Great! The supplies needed are very simple. Here's the list:
 
 &nbsp;
 
-And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smattered with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're an asshole, we don't condone your actions, and you will likely be charged with vandalism. And we will ban you.**
+And that's it. Get printing and get out there! Well... I'll add one caveat, and that's to use your own discresion on what you print these tags on. You can use sticker paper if you want, but we don't condone this. If you chose to use sticker paper, be warned, that you **CAN** and likely **WILL** get in trouble for this. If you're intending to put these on things that are already smattered with stickers and other graffiti, you'll probably be alright. But if you're an **ASSHOLE** and stick these on busses or anything not already assraped by the general public. **You're a douchebag, we don't condone your actions, and you will likely be charged with vandalism. And we will ban you immediately if we find out.**
 
 &nbsp;
 &nbsp;
@@ -93,4 +93,17 @@ Simple, eh? Get rolling.
 &nbsp;
 
 ## How to Avoid Trouble
+
 Simple. Dont dress or act like a G.I Joke, and you'll be fine. This isn't mission impossible, you're essentially littering at worst. Dont treat it as super spy LARP.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## How to Customize the Template
+
+This is actually very easy. Provided is a GIMP project file with all of the elements you need seperated as layers. Want a new background image? Replace the background image layer. Want a new link? Replace the link layer (VCR Font is provided in the git). Want a new code. Replace the code layer.
+
+&nbsp;
+
+If you've ever edited an image with GIMP, you already know what to do.
