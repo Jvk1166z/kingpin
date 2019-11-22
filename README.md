@@ -48,4 +48,4 @@ Permenant is defined as anything that isn't easily removed without damage to wha
 
   &nbsp;
 
-  Tl;dr, **NOTHING PERMENANT IDIOT.**
+  Tl;dr, **NOTHING PERMANENT IDIOT.**
