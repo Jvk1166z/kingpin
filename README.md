@@ -71,3 +71,21 @@ Alright, still in? Great! The supplies needed are very simple. Here's the list:
 &nbsp;
 
 And that's it. Get printing and get out there!
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## How to print
+
+Also very simple. I'm tempted to say, 'just print it retard', but I GUESS it's a little more complicated than that. So here:
+
+* Download this git. Either hit it up with a git clone, or click download as zip. Whatever you want fam.
+* Select your paper size, I've included several pre tiled templates for common paper sizes. The one's I've tested myself or have had other people, are marked with a 'working' tag in the filename.
+* Print it out, in full color if all possible. 
+* Cut it out as carefully as you can, do not damage the code itself **AT ALL** or the sticker will not work.
+* Store in a safe, dry pocket. Preferably one that wont crumple or crease the paper.
+
+&nbsp;
+
+Simple, eh? Get rolling.
