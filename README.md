@@ -61,7 +61,7 @@ Permanent is defined as anything that isn't easily removed without damage to wha
 Alright, still in? Great! The supplies needed are very simple. Here's the list:
 
 * Working inkjet printer (Preferably with color ink).
-* A roll of scotch tape.
+* A roll of painters tape or frog tape. It's better for the environment as it'll break down, scotch tape will not.
 * Something to put them in without bending or crumpling the tags, that's also easily accessible.
 * Something to cut the tags out with. (I like scissors for this, but if you don't have a steady hand, use an exacto knife or something)
 * The files provided in this git repo.
@@ -146,7 +146,7 @@ Basically this is currently up to wether or not I'm willing to actually set up a
 &nbsp;
 &nbsp;
 
-## Footnotes && **CONCERNS**
+## Footnotes & **CONCERNS**
 
 This is just a project for fun. If you have any questions or concerns **PLEASE CONTACT US!**. Here are some people you can contact if you've got any issues or questions for us. This list is in the direct order of involvement with the project, so please start from the top and work your way down. Here's the list, these are Discord usernames by the way if you didn't already guess: 
 
